@@ -1,0 +1,2 @@
+# LSTM_sentimentAnalysis
+用LSTM对IMDB影评数据集进行情感分析
